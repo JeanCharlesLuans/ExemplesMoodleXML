@@ -2,4 +2,7 @@
 <quiz>
     <doc> MultipleChoiceQuestion.xml </doc>
     <doc> PairMatchingQuestion.java </doc>
+    <doc> test.java </doc>
+    <doc> ajout.txt </doc>
+    <doc> texte.xml </doc>
 </quiz>
