@@ -1,1 +1,1 @@
-Projet pour apprendre a utiliser Git 
+Projet pour apprendre a utiliser Git c'est vraiment super ! 
