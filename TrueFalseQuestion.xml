@@ -1,7 +1,7 @@
 <?xml version="1.1"?>
 <question type="truefalse2">
     <name>Demo de question vrai faux</name>
-    <questiontexte format="html">
+    <questiontexte format="xhtml">
         <text>Si ma reponse est faux, je dois choisir faux</text>
     </questiontexte>
 
