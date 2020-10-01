@@ -1,1 +1,2 @@
-Mon toto est le meilleur !
+toto titi tata tutu bond zorro
+Variables à utiliser 
