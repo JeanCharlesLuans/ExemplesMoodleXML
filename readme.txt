@@ -1,1 +1,3 @@
-Projet pour apprendre a utiliser Git c'est vraiment super ! 
+Projet pour apprendre a utiliser Git c'est vraiment super !
+Ce read me n'est pas a lire 
+
